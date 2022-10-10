@@ -1,0 +1,1 @@
+SQL section of the course
